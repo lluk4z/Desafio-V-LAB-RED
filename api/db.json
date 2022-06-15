@@ -1,0 +1,1482 @@
+{
+    "reds":[
+        {
+            "id": 1,
+            "name": "GCompris - Jogo Educacional para fundamental I",
+            "description": "GCompris é um software educacional de alta qualidade que compreende numerosas atividades para crianças com idade entre 2 e 10 anos. GCompris é um software livre francês, que significa \"Eu entendi\". Ele é ótimo para testar conhecimentos sobre conceitos ou vivê-los de maneira prática.\n\nAlgumas atividades são de orientação lúdica, mas mesmo assim ainda educacional.\n\nAbaixo você encontra uma lista de categorias, com algumas das atividades disponíveis em cada uma delas.\n\ndescoberta do computador: teclado, mouse, diferentes usos do mouse, ...\naritmética: memorização de tabelas, enumeração, tabelas de entrada dupla, imagens espelhadas, ...\nciências: controle do canal, ciclo da água, o submarino, simulação elétrica, ...\ngeografia: colocar os países no mapa\njogos: xadrez, memória, ligue 4, sudoku ...\nleitura: prática de leitura\noutros: aprender a identificar as horas, quebra-cabeças com pinturas famosas, desenho vetorial, produção de quadrinhos, ...\nAtualmente o GCompris oferece mais de 100 atividades e está em constante evolução. O GCompris é um software livre, o que significa que você pode adaptá-lo às suas necessidades, melhorá-lo e, o mais importante, compartilhá-lo com as crianças de toda a parte.",
+            "author": "Bruno Coudoin",
+            "object_type": "Software Educacional",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Jogos"
+                },
+                {
+                    "id": 2,
+                    "name": "Infância"
+                },
+                {
+                    "id": 3,
+                    "name": "Alfabetização"
+                },
+                {
+                    "id": 4,
+                    "name": "software livre"
+                }
+            ],
+            "link": "https://gcompris.net/index-pt_BR.html",
+            "url_img": "https://gcompris.net/images/gcompris.png"
+        },
+        {
+            "id": 2,
+            "name": "Ilha das Operações",
+            "description": "O RED Ilha das Operações traz o contexto de uma ilha mágica onde existiam quatro tribos, cada uma delas associada a uma das operações matemáticas básicas (adição, subtração, multiplicação e divisão). O jogador deverá resolver os desafios propostos pelo RED a fim de apaziguar um conflito que surgiu entre os povos Multiplis (multiplicação) e Divisarions (divisão), antes que toda a ilha seja comprometida. Nesse contexto, o RED Ilha das Operações explora diferentes situações quaternárias do campo conceitual multiplicativo, dos eixos de proporção simples e proporção múltipla. Todas essas situações são apresentadas no recurso por meio de múltiplas representações (icônica, tabular), o que deve proporcionar aos estudantes uma melhor compreensão das relações envolvidas.",
+            "author": "Juscileide Braga de Castro, Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lídya de Lima Monteiro, Joyce da Silva Sousa, Francisco Youri Miranda de Freitas, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "MIDE"
+                },
+                {
+                    "id": 2,
+                    "name": "Jogo"
+                },
+                {
+                    "id": 3,
+                    "name": "EF04MA07"
+                },
+                {
+                    "id": 4,
+                    "name": "EF04MA06"
+                },
+                {
+                    "id": 5,
+                    "name": "EF04MA05"
+                },
+                {
+                    "id": 6,
+                    "name": "EF04MA04"
+                },
+                {
+                    "id": 7,
+                    "name": "Cultura digital"
+                },
+                {
+                    "id": 8,
+                    "name": "BNCC"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/338674",
+            "url_img": "https://mide-ilha-das-operacoes.netlify.app/assets/images/logo-intro_04cb083d395cded8cf0974754f58b0ea.png"
+        },
+        {
+            "id": 3,
+            "name": "A Turma da Mila em: O livro de parlendas",
+            "description": "O RED tem início com um baú de livros sendo apresentado à turma da Mila por Dona Eulália, avó da personagem Vitória. Nele, Vitória encontra um livro chamado Parlendas Fantásticas, no qual cada parlenda representa uma atividade. \nNa 1ª fase, a parlenda trabalhada será \"Hoje é domingo\". A partir dela, os alunos deverão estabelecer uma correspondência entre imagens e suas representações escritas. \nNa 2ª fase, a parlenda trabalhada será \"Um, dois, feijão com arroz\", e, por meio dela, os alunos serão desafiados a completar um texto lacunado, considerando a sonoridade e a rima entre as palavras. \nNa 3ª fase, a parlenda trabalhada será \"Corre, cotia\" e, a partir dela, os alunos serão desafiados a substituir palavras do texto que rimam por outras com sons semelhantes, considerando as rimas. Para tanto, primeiramente, os alunos escutarão a parlenda original e depois deverão substituir as palavras com sons semelhantes na atividade. \nAo finalizar a 3ª fase, o aluno será convidado a conhecer duas novas parlendas ilustradas com animações, intituladas “Lá vai a bola” e “Cadê o toucinho que estava aqui?”. Essas parlendas poderão ser ouvidas e trabalhadas em sala de aula posteriormente.",
+            "author": "Raquel Santiago Freire, Rayssa Araújo Hitzschky, Leonel Andrade dos Santos, Mércia Valéria Campos Figueiredo, Danilo Coêlho Sousa, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "EF12LP19"
+                },
+                {
+                    "id": 2,
+                    "name": "EF12LP05"
+                },
+                {
+                    "id": 3,
+                    "name": "EF01LP16"
+                },
+                {
+                    "id": 4,
+                    "name": "EF01LP19"
+                },
+                {
+                    "id": 5,
+                    "name": "consciência fonológica"
+                },
+                {
+                    "id": 6,
+                    "name": "canções"
+                },
+                {
+                    "id": 7,
+                    "name": "rimas"
+                },
+                {
+                    "id": 8,
+                    "name": "Parlendas"
+                },
+                {
+                    "id": 9,
+                    "name": "BNCC"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/338693",
+            "url_img": "https://api.portalmec.c3sl.ufpr.br/system/learning_objects/thumbnails/000/338/693/original/data?1585765819"
+        },
+        {
+            "id": 4,
+            "name": "Jogo virtual: Brincando com Substantivos",
+            "description": "O jogo propõem uma atividade lúdica para classificar palavras em pessoa, lugar ou coisa.",
+            "author": "Britannica Digital Learning",
+            "object_type": "Outros",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Substantivo"
+                }
+            ],
+            "link": "https://www.jogosdaescola.com.br/brincando-com-substantivos/",
+            "url_img": "https://3.bp.blogspot.com/-rO8uDJRSFLM/WIocasXDbOI/AAAAAAAADsc/uFh1Zuee-qgB4myU4iDpSQ-4S3xeK5T-QCLcB/s1600/JOGO%2BDO%2BSUBSTANTIVO%2B1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Revista Digital da Criança",
+            "description": "O RED “Revista Digital da Criança” trabalha a estrutura de uma revista e os gêneros que a compõem, ampliando a consciência dos alunos sobre os conteúdos abordados, como também sobre as principais características textuais e organizacionais desses gêneros. A partir do uso deste recurso, são exploradas seções próprias de uma revista, cada uma representada por um gênero textual do campo jornalístico-midiático, como capa, editorial, sumário, entrevista e cartas dos leitores. Além disso, os jogos estão presentes com o objetivo de estabelecer uma primeira avaliação da interpretação textual.",
+            "author": "Raquel Santiago Freire, Mércia Valéria Campos Figueiredo, Rayssa Araújo Hitzschky, Danilo Coêlho Sousa, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "EF03LP20"
+                },
+                {
+                    "id": 2,
+                    "name": "EF05LP15"
+                },
+                {
+                    "id": 3,
+                    "name": "EF04LP14"
+                },
+                {
+                    "id": 4,
+                    "name": "EF03LP18"
+                },
+                {
+                    "id": 5,
+                    "name": "jogo"
+                },
+                {
+                    "id": 6,
+                    "name": "bncc"
+                },
+                {
+                    "id": 7,
+                    "name": "mídia"
+                },
+                {
+                    "id": 8,
+                    "name": "midiático"
+                },
+                {
+                    "id": 9,
+                    "name": "jornalístico"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/35900",
+            "url_img": "https://guia-revista-digital-da-crianca.netlify.app/imagens/1.1descri%C3%A7%C3%A3oDoRed.png"
+        },
+        {
+            "id": 6,
+            "name": "De olho na lista",
+            "description": "O recurso De olho na lista tem como objetivo apresentar e sistematizar características do gênero lista, bem como trabalhar com a produção desse gênero. A aplicação funciona em dois modos: desafio das listas e editor de listas. O primeiro modo divide-se em sete fases, apresentando algumas histórias-problema com três personagens ilustrados: uma mulher adulta, um homem adulto e um jovem.",
+            "author": "Raquel Santiago Freire, Mércia Valéria Campos Figueiredo, Rayssa Araújo Hitzschky, Danilo Coêlho Sousa, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "EF01LP20"
+                },
+                {
+                    "id": 2,
+                    "name": "EF05LP17"
+                },
+                {
+                    "id": 3,
+                    "name": "EF01LP08"
+                },
+                {
+                    "id": 4,
+                    "name": "EF12LP04"
+                },
+                {
+                    "id": 5,
+                    "name": "EF12LP01"
+                },
+                {
+                    "id": 6,
+                    "name": "EF01LP02"
+                },
+                {
+                    "id": 7,
+                    "name": "game"
+                },
+                {
+                    "id": 8,
+                    "name": "escrita"
+                },
+                {
+                    "id": 9,
+                    "name": "vida cotidiana"
+                },
+                {
+                    "id": 10,
+                    "name": "BNCC"
+                },
+                {
+                    "id": 11,
+                    "name": "lista"
+                }
+            ],
+            "link": "https://mide-de-olho-na-lista.netlify.app/#!/",
+            "url_img": "https://mide-de-olho-na-lista.netlify.app/assets/images/logo-intro_55160c9d0db9afc9125676ae9ca7742e.png"
+        },
+        {
+            "id": 7,
+            "name": "Brincando com as formas",
+            "description": "O RED Brincando com as Formas explora o cenário de um quarto infantil. Neste cenário, a criança entra como se estivesse em um jogo em primeira pessoa. Haverá 3 objetos animados que correspondem a desafios a serem realizados pela criança para que possa receber as chaves de um objeto parecido com uma nave em formato de tetraedro que o levará ao planeta TETRIX. Cada um destes objetos corresponderá a uma atividade diferente. O recurso é um jogo no qual os alunos irão trabalhar conceitos da Geometria, como tamanhos e cores, de forma lúdica o que possibilitará o desenvolvimento da criança em diversos conhecimentos introdutórios à Matemática conforme a BNCC.",
+            "author": 	"Juscilene Braga de Castro,Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lydia Monteiro, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "MIDE"
+                },
+                {
+                    "id": 2,
+                    "name": "EF02MA15"
+                },
+                {
+                    "id": 3,
+                    "name": "EF02MA14"
+                },
+                {
+                    "id": 4,
+                    "name": "EF02MA10"
+                },
+                {
+                    "id": 5,
+                    "name": "game"
+                },
+                {
+                    "id": 6,
+                    "name": "geometria"
+                },
+                {
+                    "id": 7,
+                    "name": "formas"
+                },
+                {
+                    "id": 8,
+                    "name": "jogo"
+                },
+                {
+                    "id": 9,
+                    "name": "BNCC"
+                }
+            ],
+            "link": "https://mide-brincando-com-as-formas.netlify.app/#!/login",
+            "url_img": "https://guia-brincando-com-as-formas.netlify.app/imagens/atividadesComRed.png"
+        },
+        {
+            "id": 8,
+            "name": "Por que eu tenho que usar cadeirinha?",
+            "description": "Animação com o intuito de discutir com crianças dos cinco primeiros anos do ensino fundamental e da educação infantil como reconhecer e identificar os tipos de equipamentos de retenção infantil existentes, quando e como devem ser utilizados, bem como porque é necessário descartá-los. A animação tem 5 minutos de duração e foi desenvolvida em resposta à pandemia da COVID-19, que impôs o ensino remoto e fez surgir a necessidade de criar novas estratégias para discutir temas de segurança no trânsito com as crianças. Foram considerados os princípios da teoria piagetiana sobre desenvolvimento tanto na concepção geral do projeto como na busca, ainda que virtual, de interação com a criança. A animação pode ser visualizada em aparelhos eletrônicos como computadores, tablets e smartphones.\n\nComo citar: Todt, T. B., Pelizzaro, A. L. Z., Araujo, M. C. Q., & Bianchi, A. (2020, Setembro, 21). Por que eu tenho que usar cadeirinha? [Animação]. Recuperado de https://plataformaintegrada.mec.gov.br ISBN: 978-65-86233-73-5",
+            "author": "Thomas Bianchi Todt, Ana Lídia Zaponi Pelizzaro, Maria Clara Quaresma de Araújo, Alessandra Sant´Anna Bianchi",
+            "object_type": "Animação",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "assento de elevação"
+                },
+                {
+                    "id": 2,
+                    "name": "cadeirinha"
+                },
+                {
+                    "id": 3,
+                    "name": "acidente"
+                },
+                {
+                    "id": 4,
+                    "name": "prevenção"
+                },
+                {
+                    "id": 5,
+                    "name": "segurança"
+                },
+                {
+                    "id": 6,
+                    "name": "trânsito"
+                },
+                {
+                    "id": 7,
+                    "name": "formas"
+                },
+                {
+                    "id": 8,
+                    "name": "jogo"
+                },
+                {
+                    "id": 9,
+                    "name": "BNCC"
+                }
+            ],
+            "link": "",
+            "url_img": ""
+        },
+        {
+            "id": 9,
+            "name": "É o Bicho 2.0",
+            "description": 	"Tendo como contexto a extinção de animais da Região Amazônica, O RED É o Bicho 2.0 explora habilidades presentes em várias unidades temáticas da BNCC.",
+            "author": "Juscileide Braga de Castro, Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lídya de Lima Monteiro, Joyce da Silva Sousa, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "EF03MA27"
+                },
+                {
+                    "id": 2,
+                    "name": "EF03MA26"
+                },
+                {
+                    "id": 3,
+                    "name": "EF03MA12"
+                },
+                {
+                    "id": 4,
+                    "name": "EF03MA10"
+                },
+                {
+                    "id": 5,
+                    "name": "EF03MA06"
+                },
+                {
+                    "id": 6,
+                    "name": "EF03MA05"
+                },
+                {
+                    "id": 7,
+                    "name": "EF03MA03"
+                },
+                {
+                    "id": 8,
+                    "name": "geometria"
+                },
+                {
+                    "id": 9,
+                    "name": "álgebra"
+                },
+                {
+                    "id": 10,
+                    "name": "jogo"
+                },
+                {
+                    "id": 11,
+                    "name": "BNCC"
+                },
+                {
+                    "id": 12,
+                    "name": "amazonia"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/36677",
+            "url_img": "https://guia-e-o-bicho-2.netlify.app/imagens/1%20-%20descri%C3%A7%C3%A3oDoRed.png"
+        },
+        {
+            "id": 10,
+            "name": "Você sabia? Você também faz parte do trânsito.",
+            "description": "É um vídeo interativo em que as crianças devem encontrar os elementos que fazem parte do trânsito em diferentes cenários. Tem como objetivo promover que as crianças se reconheçam como participantes do trânsito, assim como reconheçam as outras partes integrantes deste sistema, pois é importante que elas tenham esse discernimento para evitar acidentes e outras complicações. Em cada cenário o foco é direcionado a elementos distintos, variando conforme suas principais características. Além do vídeo ser interativo, ele convida as crianças a pensarem nas perguntas que são feitas, não entregando as respostas rapidamente. Os elementos devem ser identificados através de dicas que buscam mostrar as funções e deveres dos componentes do trânsito. A criança tem um tempo pré-definido para associar as dicas aos elementos e encontrá-los na imagem. Após esse tempo, os elementos que foram apresentados através das dicas serão destacados. \nComo citar: Tascheck, T., Moro, D. T., Watanabe, L. H., & Bianchi, A. S. (2020, Setembro 22). Você sabia? Você também faz parte do trânsito. Recuperado de https://plataformaintegrada.mec.gov.br ISBN: 978-65-86233-69-8",
+            "author": "Thomas Tascheck, Daiane Teixeira Moro, Leonardo Haruki Watanabe e Alessandra Sant´Anna Bianchi",
+            "object_type": "Vídeo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "saúde"
+                },
+                {
+                    "id": 2,
+                    "name": "cidadania"
+                },
+                {
+                    "id": 3,
+                    "name": "prevenção"
+                },
+                {
+                    "id": 4,
+                    "name": "acidente"
+                },
+                {
+                    "id": 5,
+                    "name": "segurança"
+                },
+                {
+                    "id": 6,
+                    "name": "trânsito"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/357725",
+            "url_img": "http://www.sindsegrs.com.br/wp-content/uploads/2017/12/13.-Deveres-300x207.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Livro Projetos de Educação para o Trânsito",
+            "description": "O livro Projetos de Educação para o Trânsito reúne os esforços de profissionais de norte a sul do país que têm se empenhado em, ao longo dos anos, promover a segurança de trânsito trabalhando com a temática no contexto educativo. A maior parte dos projetos foi desenvolvida no ensino fundamental, no entanto há experiências na educação infantil e com adultos.",
+            "author": "Alessandra Bianchi",
+            "object_type": "Livro digital",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "acidentes"
+                },
+                {
+                    "id": 2,
+                    "name": "prevenção"
+                },
+                {
+                    "id": 3,
+                    "name": "trânsito"
+                }
+            ],
+            "link": "https://www.editoracrv.com.br/produtos/detalhes/32456-projetos-de-educacao-para-o-transito",
+            "url_img": "https://www.editoracrv.com.br/img_produtos/c30d67185e5bcc1e63699ed8f5cb3215.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Cartilha Bem-Vindo ao Trânsito",
+            "description": "Cartilha com orientações para educadores e pais sobre como crianças de zero a 12 anos devem ser cuidadas e orientadas no trânsito.",
+            "author": "ALessandra Sant´Anna Bianchi & Letícia Carol Gonçalves Weis",
+            "object_type": "Livro digital",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "segurança"
+                },
+                {
+                    "id": 2,
+                    "name": "acidentes"
+                },
+                {
+                    "id": 3,
+                    "name": "prevenção"
+                },
+                {
+                    "id": 4,
+                    "name": "trânsito"
+                }
+            ],
+            "link": "https://dl-manual.com/doc/cartilha-bem-vindo-ao-transito-manual-de-sobrevivencia-para-pais-docweb-2vlx91y2pkvr",
+            "url_img": "https://image.isu.pub/190109231711-f46ef034aa0daff38a0ea3397f177706/jpg/page_1.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Duolingo",
+            "description": "Duolingo é um site e aplicativo móvel de aprendizado de idiomas. Os usuários praticam vocabulário, gramática e pronúncia usando repetição espaçada. Os exercícios podem incluir tradução escrita, compreensão de leitura e fala e histórias curtas.",
+            "author": " Luis von Ahn, Severin Hacker",
+            "object_type": "App",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "linguagens"
+                }
+            ],
+            "link": "https://pt.duolingo.com/",
+            "url_img": "https://tecnomais.net/wp-content/uploads/2022/03/O-que-e-Duolingo.png"
+        },
+        {
+            "id": 14,
+            "name": "Up to ten",
+            "description": "UpToTen has been building prize-winning early-learning games and activities since 1999. Your child will love the reassuring, friendly world that our unique games inhabit. S/he will have enormous fun whilst building independence on the computer and now on tablets and smartphones.",
+            "author": "",
+            "object_type": "App",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "linguagens"
+                }
+            ],
+            "link": "http://www.uptoten.com/",
+            "url_img": "https://jasonbarnard.com/wp-content/uploads/2014/09/boowa-kwala-jason-barnard.png"
+        },
+        {
+            "id": 15,
+            "name": "Activity Village",
+            "description": "Activity Village offers teachers, parents and children from all over the world many hundreds of free craft ideas, games and information pages - and over 37,665 printable activities for Members only. Simply look around, enjoy, and print! We cover many popular children's topics, the main holidays of the year and the seasons too, and we update the site with new activities nearly every day!",
+            "author": "Melanie Potock, John & Nicole Schmoll",
+            "object_type": "App",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "linguagens"
+                }
+            ],
+            "link": "https://www.activityvillage.co.uk/",
+            "url_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToYS92LonAvKWikxcg17sTxyycdvPs0Mxa2JjuABYA5CdLaT0CFn_-msq436OXWXSKUkY&usqp=CAU"
+        },
+        {
+            "id": 16,
+            "name": "Fun Brain",
+            "description": "Funbrain é um site de jogos de navegador educacionais para crianças e adultos. Foi neste site que Diary of a Wimpy Kid foi publicado pela primeira vez, antes de ser transformado em uma série de livros e franquia de filmes de sucesso.",
+            "author": "Pearson Education",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "linguagens"
+                }
+            ],
+            "link": "https://www.funbrain.com/",
+            "url_img": "https://www.longbranch.k12.nj.us/cms/lib/NJ01001766/Centricity/Domain/1053/funbrain_logo.png"
+        },
+        {
+            "id": 17,
+            "name": "Só Biologia",
+            "description": "Portal educativo com materiais de Ciências e Biologia, exercícios, provas on-line, jogos, curiosidades, notícias, glossário e muito mais.",
+            "author": "Education",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "biologia"
+                }
+            ],
+            "link": "https://www.sobiologia.com.br/",
+            "url_img": "https://d3q79ipuvy7qd5.cloudfront.net/entities/3ef61c3beb762d7995d85fd57b7963ea/ed6743800c08d996c1f50fc03d57221958aee909718dbdad7aabd4a1fadac0c8.png"
+        },
+        {
+            "id": 18,
+            "name": "Planeta Bio",
+            "description": "Portal educativo com materiais de Ciências e Biologia, exercícios, provas on-line, jogos, curiosidades, notícias, glossário e muito mais.",
+            "author": "Education",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "biologia"
+                }
+            ],
+            "link": "http://www.planetabio.com.br/",
+            "url_img": "https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20210520145509.PNG"
+        },
+        {
+            "id": 19,
+            "name": "Bio Mania",
+            "description": "Portal educativo com materiais de Ciências e Biologia, exercícios, provas on-line, jogos, curiosidades, notícias, glossário e muito mais.",
+            "author": "Education",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "biologia"
+                }
+            ],
+            "link": "https://biomania.com.br/",
+            "url_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0zL4YFFyIyQBffvxLwaCbYgrp_gsGFwlu2zX6NytEkxG0NKlgptiSXyZVRsHRxTNwJQ&usqp=CAU"
+        },
+        {
+            "id": 20,
+            "name": "Biologia da Saúde",
+            "description": "Portal educativo com materiais de Ciências e Biologia, exercícios, provas on-line, jogos, curiosidades, notícias, glossário e muito mais.",
+            "author": "Education",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "biologia"
+                }
+            ],
+            "link": "https://www.biologianet.com/saude-bem-estar#:~:text=Segundo%20a%20Organiza%C3%A7%C3%A3o%20Mundial%20de,aus%C3%AAncia%20de%20doen%C3%A7a%20ou%20enfermidades%E2%80%9D.",
+            "url_img": "https://cdn.mesalva.com/uploads/node/image/MS2019_UX_Imagens_Saude_BiologiaBasica_v2.png"
+        },
+        {
+            "id": 21,
+            "name": "Só Matemática",
+            "description": "Portal educativo com material de Matemática para o ensino fundamental, médio e superior, exercícios, jogos, desafios, curiosidades, biografias de matemáticos e muito mais",
+            "author": "Education",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Matemática"
+                }
+            ],
+            "link": "https://www.somatematica.com.br/",
+            "url_img": "https://d3q79ipuvy7qd5.cloudfront.net/entities/e735a014d5a6901684a50ea868d0a00f/9a432795f430cb0852f502d9ca692336296e3990ab19ac4f66db2aca895a3b35.png"
+        },
+        {
+            "id": 22,
+            "name": "Khan Academy",
+            "description": "Contamos com Conteúdos de Matemática, Ciências/Engenharia, Economia/Finanças e Muito Mais! Venha Fazer Parte do Time de Professores Khan Academy. Seja um Agente de Mudança no Mundo! Aprenda o Que Quiser. Exercícios Interativos. Educação de Qualidade.",
+            "author": "Education",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Matemática"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://pt.khanacademy.org/",
+            "url_img": "https://media.bitdegree.org/storage/media/images/khan-academy-review-logo-big.o.png"
+        },
+        {
+            "id": 23,
+            "name": "Matematiquês",
+            "description": "O seu futuro professor!Eu me chamo Amintas Paiva Afonso, sou doutorando em Educação Matemática, palestrante, instrutor, consultor em gestão empresarial, especialista em Metodologias no Ensino da Matemática e da Física, Interfaces da Educação Matemática no Ciberespaço e Competências das Tutorias na Educação Matemática à Distância. Sou professor nos cursos de Engenharia Elétrica, Engenharia Mecânica, Engenharia Civil, Engenharia de Produção, Engenharia de Controle e Automação, Administração e Ciências Contábeis. Com várias especializações em marketing, trabalhei como coordenador mercadológico durante 30 anos para órgãos e empresas públicas e privadas, nacionais e multinacionais.Muitas pessoas já me assistiram em vários eventos nos quais participei como instrutor ou palestrante nos últimos 30 anos.",
+            "author": "Amintas Paiva Afonso",
+            "object_type": "Plataforma",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Matemática"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "http://www.matematiques.com.br/",
+            "url_img": "data:image/jpeg;base64,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"
+        },
+        {
+            "id": 24,
+            "name": "Calcule Mais",
+            "description": "Por que resolvemos criar este site? Porque infelizmente não são todas as pessoas que possuem a oportunidade de ter uma educação de qualidade e, não poderíamos deixar de pensar em todos aqueles que não podem pagar cursinhos ou não possuem tempo. Também sempre nos preocupamos por aquelas pessoas que possuem algum tipo de deficiência. Tudo que está disponível no site, sempre será totalmente gratuito. Nosso sonho é criar o maior portal de matemática do Brasil, para que desta maneira possamos ajudar pessoas de todas as idades a realizarem seus objetivos.",
+            "author": "CALCULEMAIS",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Matemática"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://calculemais.com.br/",
+            "url_img": "https://calculemais.com.br/img/logo-2_offline.png"
+        },
+        {
+            "id": 25,
+            "name": "Gramática online",
+            "description": "A LÍNGUA NO DIA A DIA. Fique por dentro da Gramática de forma descomplicada.",
+            "author": "Gramática",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Gramática"
+                },
+                {
+                    "id": 3,
+                    "name": "Português"
+                }
+            ],
+            "link": "https://gramaticaonline.com.br/",
+            "url_img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSExIWFRUXGBUVGBgWFRcXFhsYGBgWFxUYGBUYHSggGBolHRUVIjEhJSkrLi8uFx8zODMtNygtLisBCgoKDg0OGxAQGi0lHyUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBQMGAAIHAf/EAEkQAAEDAgMFBQQGCAMFCQAAAAEAAgMEERIhMQVBUWFxBhMiMoGRobHBBxQzQlJyFSNigrLR4fA1s/Ekc3SitBY0Q2ODkpPE0v/EABoBAAMBAQEBAAAAAAAAAAAAAAIDBAEABQb/xAAzEQACAgEDAwEGBgICAwEAAAABAgARAxIhMQRBURMiMmFxwfAFFIGRobEz8dHhJEJiI//aAAwDAQACEQMRAD8Ar6ie/ciKiI2uPVCBfMrRn1zXxJYtFutItFuSsbkzl4mAIqKO3VQUcrSSN4+HJFpb2NoxR3iF8ha9xHE/Eo+KQOFwl1R5nfmd8St6QOxeH14WVTrYioxYy6ILbA9FpSytc27fXjfmpX6HopWJuo0ChBFi8Uc0mEJg3gT2R9uq1iOaivfNSwaoqoQL3kyxeLSdji04fXjbkhG8OQVNRuHqfkidk+Q9fkEpTfZPlP5vkEzKAE2nLzJJY7KNGoKR4xFu9JXeEwqYgJJC15I4pgllR5j1TcfMAw+GUOC9lkDRcoGla4u8P9Lc1HVl2LP04IhjBaoDvpE1kmLnXPojI32S9uqNTHAqotCTvDAVDU1AaOe4LIw7C5w0A3pa5xJuUtMdneG7kCSfWn8fgvVDdYnaR4idR8y0IOpp949Qi1q94AuTYKBSQdp6DKCN4FFoonvutr4wXNFhc5fNaJ9Sc+IK9xDrg2KbUdWHi2jhqPmEnn8xUlJE5zhhytv4I3QMu8JCRNzCXyOA/EbnhmmUUIaLBSCHDpvzJ5r1JbJq44hgVEdPOWG49RxTmOYPbcf6JCEXQMde4NhoeablQEXBVqhT32Q0+hUkjCDmop9CsURd7yCKS3RGwpcjo4jGwPdvIFt9jnf3I3E0DxCVNTb/AEULTfMKen3+imbiMXmC19FfxNHUfMLbZPkP5vkEcSg46loeW2sDnfnp6LQxZKhEAGFpPtE/rD6fBOUm2l9ofT4LsHvfpMfiTU8+LI6/FCuiLnkDitYmEnJNoYwBzOZ5lNY6OIA3ntPCGCw9eaBlaDcFMQl51S0Jsmc44gD48JTCmpy48lo9oIzTCina9vhytqOCZkc6bEDGo1UZlUAI3AcEhIT6t+zd0SJZgOxh5OZphWLdep9xOgSwueAMV8tbpNWVReeDRoPmVLUU5DQ299TyQRScaAbxzte0abM8nqfktqiHeFrszyep+SLc6yBjTGFQIidsBe8gep4JzBCGCwQ1PUgOLCLZ5H5FGocrHjtCQCpINFDKyynaoamUAW3qdLuhMiKmgxZnRMWC1lBSzBwtoQiG6qtyb3giSyMBFitKbY805LY2X4u0aOrj8NVY9g7C720kmTPujQu58m/H42pzmRMzwsY0cg0Bedm6/wBE6EFn6/WKy5Be0qezOwwaQ6aW5/CwZA/mdr7AnEvZincLODnb/OR/DZRVHahn/hNx7rnwj0Gp9bJNtXtPUNbdpYMwPJfjxJSAvW5mBLUf2/gTtOWr7Rx/2QpwPD3jej7/AMQKCn7JvZcxvD+RGE+3Q+5JYO2lWCBaN/IsIPta4Kw03bGMYROwxE/eacbL5amwI14Ec0bYuvxb3q/n+KB/aCDkXeVHaLXtcWPaWEbiLX58wldVqOi65V0kNTGA7C9pF2uBvrva4LnHabYj6Z4v4mHyv+R4OVfRdYmU6CKbx9/1zOD6uYNQVv3Xeh+RUVdGXSkDgPghY4i42COZLhdhPLP0VpUKbHMbdijJIYg0WCJbooFMzRJY3CE2CXnVMWhKxJckcytxjmc/E9dogoJSw4h/fIo12iXqhOCJO5ox46oEkTiOGY4JZHHvWU8JDS7TLTj15LZrroQoWwIzUSATNlixerYFwus3eqDlivnvRlZu9VFFEXGwS1NC4xvem+zzZnqfkpHG68lAabbrL1CdzfmH8IuqvMf73I2grb+F3ofkUFVec/3uW1HS48z5fimsAV3ggkHaO5ZsI5oNxU80GVx6ocqbGBW0MxU020Vp7J7P+svu4eCO2Lg4/db8zy6qqk2F11jsxs76vTRsI8RGN/53Zn2ZDo0IfxDP6WKxydh9TEZGIFQ6rqmxML3ZAe/gAqNtWtkqTaxNyAxjc/YN55/JE9o9rtlmdED4YiRyLh5j6aeh4p1sShbTxGeXJxbck/dbqG9dL88ty83FjHSoMjC2PA+f3v8AtOWkXV3PEB2R2Uw+OZ9j+Bpy/edv9Paiqio2ewWd3bs7ZN73PqA7PVVzbW3JKhxaCWx7mDfzdxPuHvUlP2eqHNBY0A3Bu84Rax0379bJ5wMfb6jJXwBoD9f9/OGVNW7VHsf6OecmxMPHB3X/ADWCA7Qdki5odA69rnA45m/4Xae32qKo2DOwXLA4b8Jxe7U+xednKyRlRHCy5jf3mNuoaA24ePw52HA4uNlmNGQa8OS6F0TY2/r73gldK2rWIr7H1s0VU2Bt8LnESRkHLIkvt90i2fHfuXQ9oUTJo3RvF2uHqDuI4EKcNF72F+O9erz+r6v1sgyKukj+/MSebnL6vZ5p3uiOoOvEbj6hKqzzn0+Cv/baiu1sw1acLuh09h/iXP63zn0Xv9Hm9ZA/fvHqbEmpqjcfQplGMkppKYvPAf3kEZDVhriw6XsD8im5FviMWhzDwq9Icz1PxViVek1PUrMHf9IWSTMkuFrR0t/E7TcOKlpaXLEfQfNb00+LI6/FMLVdRRSzZklR5T0S1psmVR5T0Sxdj4mmS97yWKHvAsR6TA2jY/rLYdPgjY2BosEER3dg3TfzRsbw4XCkfjbiPSr+MBrfN6BRsfZSVvm9AtqSmxZny/FMBAUXFkEuQIO2lxvJPl+OW5MGgDIKR4sVGlM+qMAqFM0CGqYN49QiWaBLNo7Q+4w9T8gl4lYttOaebHoMUkeIeZ8YtyLhcn0uup1tR3cb5D91rnf+0E/JUfZ7P9oiP/mNVt7Rj/ZZ/wDdP/hK8/8AEHOTLjDcf9gSfKKapzjszTd9VxNdn4i93MNBeb9SAD1Vw7bVmTYAc3eMjiAbN99/YFW+wJ/2wf7qS3W8fyBTztbEBMH7+7aAeWJ2ntVfVEHrUB7LY+ZnL/kmdkdkAkyvF8JAA3YtT7AR6nkrgkvZF96ccccgPXESPcWpyvI63Iz5jfbaA7Wxnt1o1gBJAAJ1IGvVc9m2ntKSQs/WMN7FrYvCPXCSR6m6aRbSqobY3OdylZa/HMAH4p7fhzqPfWz2szghIv6y4LEFsnajJ2mwwub5mHUX0IO9p3H4I1QOjI2lhRgwHbsWOnlH7BPq3xD4LmBpsbzwy/0C6ttH7KT8j/4SudBuS9j8LyFUYfH6R+EXc1Y2wsNEnq/O7qnFkmq/O7qvVw8mMfiGUFbbwu9D8itaakuS5wyubDj15KKlp75nTcEZBPuPoUTbXpmA8XCJND0SEFPpND0SFdh7zmhYqLtIOtvagHvRNHnI0brr3aNDg8Q8vw/omrpVq8xL6itjjvAlixYmyePKvd6qOGUtKkq93qtIIb66KMVp3lhvVtCmw947F92w69EaBYWCTT1BjkuNLC43HVNoJg8Ygf74FJyKQAe0oQjfzNJNSoypJNSgqifcPUrFBJ2gsamu0K/LAzo4/IJWE7q6EPaHDzWHrloUmwkGxyN1VhK1SxTS1xyYHsf+F7HHo1wJ911fKqEPY5h0c1zT0II+aoDxcEHTMK49n63vYGkm7m+B/wCZuV/UWd+8vC69TS5B2P8Ar+f7ndUu4MpWxYPqsrJH+ZrrP4Bpux/svf0Vq7WUhdGJBng1/Kd/p/NCdpqDC7vAPC7I8nf1/mpuzm1AQKeQ56MJ0c3cw/tDTmOd0zK7ZNPULuRyPh3/AGiztTiKezu1RTvIf9m+xJ1wuGWKw3EWB6DmrrG8OAc0gg5gg3B6EKr7W7OOBLoRdv4d46cR71XNpPfA3wOfE7EL4S5h0OoFlzYMfVkMjUT97jtOKhvaWdMe4AXJAA3k2HtVZ25tgSDu48273cbcOXP+zXaHaLp/CXOc8biS6/MA3Vj2ZsBziHSjC38P3j1/CPf0QDpMfTHVkO/3wOTCCKg1ExXQTmOaN4/E1p5seQD8QfQK9pI9lLJO0Yx3gIs0ZNJZmAMrEi2gO7qnal6zIH0nSQa7/fzinazcB23LhgkP7Jb6u8I+KoTVZ+2NYLNhBzPjd00b7Tf2KsNV/QJpxWe5uUYBtcxwSwwXeSdL6IqpqLZDXeVIyO7RxsvRW1F+YbUxoSBDlEkIYo1MU0nimyIPDJJyU1ayyCng3hMxkXAe6mlB9o3qrARfIpBQfaN6p+421QdRyI3p/dMF/RkX4feVil7/AJLxL15PJjNOPwIPE7vLHS2v9EWBZAwm2iLjfdc/wmKNri3afn9B81pSVRjNxpvHFSbT8/oPmg1QgBUAxZ2NxvUVWLy6H+7Idb07bsH971qRZLFLsJjWd45h8reg+CEr6EPzGTh7+RRUPlb0HwUijVirWI4Lche66N2JtL6vJc/ZvsH8vwvty38jyCFe26ibquIV1KngznAdaM6LLE17SDYtI9CFUdtbGdECfNHx4fm4dVvsbbRg8D7ui3WzczoN7eWo3cFa4ZmvaHMcHNOhBuCvL/8A06Rr5U/f6GS+1jNGVXZ+3JYwGu/WtH4jZ4/e+96580fL2mpsN5WOaL28TA7P926OqtiQvzthPFuXu0SbaPZAyNwtmtnfNl+PB3NGH6TIwL+z/H9bfxMPpkeJtL21pWD9Wx7uTWBg9cRHwS+XtNJUNNh3bdLA3v1flfoLKSDsCL+OoJHBrLH2lx+CsdBsOGK2FlyNC7O3QaA87JrZOhxbpbN53+tCcpRfjEmwNjPc9srwWtaQ4Xyc4jTLc34qx7Sr2QRulebAe0nc0cysr6+OFuJ56AeY9Auc9q9qPnkbfJoHhbfIZ68zzS8WJ+tyBn2Uf14/7m02Q2Yvq9pvkmdM45uOm625vQCwRLqy7fD68kuhi3lZK+zvYvfKKaAHEZqI2EJTKDyjoEqY+6awnwjolZeIeLmZKwEX0sgowNVBXVmPwjy/H+iGpqjCeSJMZ0wXcAiMih0Te4uM0K51tVwExp5GwB7Xc80fI+6Uh93Dqjo37itccGcpraSrFi9S4cgjW4NlpGjqWm+870HzKxjUZjHsiK9pMNw4jIgfNBqx1LAcjmEkq6fAdcuP803FkBFRbrvCqXyD+95UhZfJaUebW2z/ANUzghw66pTtRM1VubxaAcAB7FuhsViiGuupzHKRxMWj7C3WyyWQNFyghIXPBPEfFaiXvAEKcVqa2SAF8Tyw5X3tOY8zTkfipXtQe0fs3enxCLGQxAPExqYbxxRdvXDKaEO/ajNv+R3/AOk4pe2NO8Xwyt3Ztbr1DlzykpS88G8fkEylaA0AaIM3Q9MTQWj8CRELhBl4f2lj3MefRo+aWV/aWU5MaGX3+Z3oSLe5V6lqfun0Knn3JC9HiQ+7++8b6CATWWVziXOJJOpJufaUvr2XcDuAt6omSTcFkYuCrVOn2pxF7QEIWo1R80VuiAmF3exUoQdxFUQamsbiDl7ETWzOsGWsABfmUZQ0eDM+b4f1Q9U27j1WawW+ULTQi8LRTSNso44y42CcD3icnaT0cpBsBcH3c1rI+6OihDWkb95S1LBDGxDVSoozaLUI1BRahMIIS48uKxzUKvE0uvUf9Vbz9qxK1iH6ZnojYH9dBuuiillfqOicdkSJ6qCB+eKQeoY10hB6hhHqhGJshUDvtNbMuMMTwLMt+w+zMEUP1uvNm2BbG64AB8uNozc47me0E6TO+kGBnhhpDgGWrI8uTQD8ku+k3aDn1LYb+CNoNv2nZk+yw9vFVSmpnyOwsY57tbNaXGw1NhuVmTqDhb0sI42urJM87H0w6hfWznneroAS+Gs2ZXNJeBTTAXxOwsd6OBwyfl15BUdFnY9QG3MEwAzJMTxbnorL2E2JDVQVHetBdj7trt7Rga4FvO7vclFcnVZACoU0d6q45Hx9HjY6iy2NrBqUV2q9jJ3Lokw2TSu7pzO9kHmOF0hB33PlB5D2ISLYVNWTj6mXMha0GZ2Fws4+VjA8ZOsDfcMuKxuibgMCfAO85euT3mVgvkjY/wC+053LIXG5XkPmb1HxXSZqjYlOe5MQkLcnODHy2O/x7/3UDt7slA6EVtC/FEPE5oJcMIPiLScwW53aeB0tYtbpCFJUg1yBNTr0JAZSoPBI2lZQ9bGHNIPK/tCvPYHYsFTHUGZmIhzWA3N2jCHXbwNzryRc1RsZp7hzG2vgMha/De9s5r3Gf3tOaTh6FqVy4F8QX64K7IEJK81ObsAAAGiiqdPVdOPY6io+8qKiQuhBBYx17C+44c5HX0HuOqhhodl7RDooB3UoGIWbgdbTFhPhe25F94uNE0dA4O7C/F7mCv4jj5Ctp7mthOYJ72Y2d9anigkf3bXYje9nENsS1t/vH4AnchxsWRk5gc28gf3YaPvOvYH8pyN+CvU+w9n0MbTXESyO0aQ5w3XwRDUDLxO92izBhLvZGyne4/qupVU0qTqYezW5+cT9vNrU5ayipmNwwuze3QEAjA0/e18R4jfmqlAuhQbN2VtEOZTfqZgLgBrmGw392fC9ul7cdQqeKP6rVCOqYXNjkHeNafM3UFpNrg3B56IurxuzBiRR2BHAiOjyIilFBsbkHk+ZbNt07P0LSnCL2hdew1c0lx9b5rn+y4I3TtY54biexuJ2jWuIBd6XXY6+voRQQyyRXpXCPu2d3ewIuzwbrBcequ5l2iwRMLIZKiBgbexDHvY1wyOV7u6XVPU4QcgojcAV99jxEdFmIxsCCPeN/Z5HMsXazY0dLK2OOXvAW4jcguab78OWeoVSqPMequv0gUMFPUNjhY2MGIPLRkPM9pIHRoRuw+yFPFD9c2g6zTZzYySAAfLiDfE55/CPepvy5OZlUUB+wlA6pV6dHYkk/uf0nODHiyW1I1oGWu/iunwS7EqT3IYIXHJrsLorndZ+l+TteC57WbILK91JTPE5MgYxwIs64DjiIy8OeIj8BPJE/TtWxBB8eZ2LqVYkMCpG+/iQO0KUrsL9i7N2cxv1s99K4XsQ53XDEMg2983e1Cx7D2TtNjhSHuZmi9g1zCObonZObcgXbx1TE6RhtYvxFnr050nT5ractp25gnTensYFhbRB7RoXwSPhkbhew4SN3Ig7wQQQeBUVNUYctyiyqTLkyDnsY0Xij+sM/EF6kaT4j9Qg1fqOiI7NVwp6unnd5WSDFya8GN7uga9x9FBWC5bbO6KpaUNGeZ/vJOTL6YDdxJ3xeoSp4l1+kzZjmzNqALxyNa0kaB40v1FrdDyVc2FtmWkkMkWElzcBDwSCLgjQgggjjvTjs/2zZC36nWs7yDCGtfhxlrfwPZq5o3EXI0tvTQ7G2PL4mVrWD8IqIx7pAXDorGwnI/rYGAJ332IMgXMMSeh1CkgbWNwR28fWOuxPaOWsMwlawd2IyMAcL4+8vfE4/gHtSvsBMWUla8ate5w6iFhHwXr9vbP2bG4U3617rXIcXBxF8OKQ5WFzk3ickk7FbchZRVzZpWMe7G5rSQC4OhawYR97xAiwVGN/bTUwJAa/3H/EjfH7DlVIUlaHw3lXppg4X36m+Zud9966F2YJGyqkxee897a3sB7cGH3LlkbiLEaq29je1H1Z7sQLopLd40eZpGQkaN+WRG8AcLHz+kZceS24Iq/Fz2evxtkxDQLIINea7SqhdH+iEOLappziJjtwxlrxJ64RFf0W0mwtkVB75lUI2nMsbLGwcT4JG4mdMk82Rt7Z8AMEUjI44248TjZjtcVnuze7IE9Ra+63pun9LICzD4b8zzer6n1sRVVa+9jiJ/o4lBpawtOjiOYIiHvXP6seAqxfRxtynhpq1ssrGOc50jWuNnOaYw0YQfMbi1hnpxVafKHxkt4e/gVJ1igJiA4AP0l3R/5c1+R9ZfO3zj+jKK51MRP/AMDlWuwLSNoUpuQMUuXEfV5teWQ9gTvtVtKGbZ9GxkjXuaIy5oN3NwxFpxD7pubWKV9h/wDEaX80v/TzJ+Zx+bWvhJenUjomv/6+stNm/pzxW0Jb+buB77YlVPpIc41kmK+Vg38uFtrcsz63R/bOd0e0HyMOF7HROadcwxmo3g5gjeCU4qK/Z20mM+tOFPOBa5eGHmGSOGF7eRFxwCz2cofECAwYnfvNRjhZMxUlSgBrepz/ALNueKymMd8ffxWt+EuAk9O7L78rq0fS04Nq4txdCM+NnuA+KdbNGytmnvGTd9IfDixNlc0E52wANYLHM6246KqfS5tCKapiMUjZA2KxLCHC5e42uMr2TDiCdOUJBN9jxOGb1uqV1UgURZHMsO3f8CpPy0/8BXONm/8Afab/AIil/wA2NXrsf2go6mgbs+skETmWa1znYA5oN43NkOQcMhY620IKre26Kmpdo0/cVHfRNkppXuu12DDKC67mCxs1t8hvR5FvIuUEVt/cDA2lHwkG/aPG1V5j/wClZoO0qW/lwQ4vyd+/HflhumH0uudjgGeDDIRwx3aD62t7SlP0nVsU9SwxPbI0QhpLCHNuXPNrjLQj2phsXtXSVUAo9pWa5lg2V1w11smvxj7OQDI3sD6lo52XI2TFdE1UWqtjTFlokAGx3F3vKHZPfokDf0kL2yhmLfzXjGXPCX+9Wqn2RsenPeuqmz2zDHSxyD0jibd3rcKgybQH181dGzuWMkxxtIFgMOFzS0bn+O4GgeUnGn5dgzkSpsv5pGRAeOTsL8QrtkyV+0qnGSLPtn+DCO7A/dsfUrXsfG9m0KUR3xd6BlvYQe8vxGDEfRXuWu2btJrXTu+rzAAHE8Md0D3DBI2+m/pop9nzbLoHBzJhLI4hmPE2Qta4i5JaA1jRqd9hvTPSPq69Q03d3EnqB6PpaG1VVVKr9LkYFaLDzQRuPM4pW39jR7FSFcvpRrI5qsOie17RDG3E0gtuHyOIBGRyc32qpRRXzOin6gj1GPxlHSg+ivykS9RmFYp9Ur0fGe0L8Fg7Pnw5dE0SafcpqOqw5HT4f0S8iFvaEYmSjRnm0fP6BQwxlxsP9ETVxF0lhwCNhiDRYLi4VR5mBCzE9rimpk8ZaTe2Q9gWii2l9q7qPgE37IbEfXziFpwtAxyPtfCy9vVxOQHU7iqUxlqCxOVlS2Y7CBBSQMOoysumTnZFEe4MAne3JxLGykH9pzyGg8m6cAtajs/R1sDpaGzHtuCwXaL2vhcw+QncRkeeqJukbcKwJHa94ofiK7FkYKeCeJz+gqg9uWRGo+Y5KSs+zf8Ald8E1+iTZkUtTOJog/BGLB48pc4td4TvytxGatu0Jtk0JdE+ITSNGJ7cIlcAc/FjOEZbhnplms/I8PqAHx+cJvxDSxxBSWHj5Ti6ZUMTmguOhtlx5ldGquytBXwmqoBhe294wC1pIF8LoneR1tCLA8wbqj1HlKzqVOMhfPeH0uZc1kbEbEHkTdjr5hPOw/8AiNL+aX/p5lV4pCCrN2GdfaNKR+KX/p5knp1rMvzEPq/8D/I/0Yb29Nq6Yn9j/LYqts6pjmqI43uDIy9rDIfuhxsXZ5Dhnpe6Y/SnUn9ITM0A7u/P9WwpD2bgbJVQRvF2vmhY4cWueAR6hOOAHMxO9t9ZOjlenBBr2fpLT2r2ZDTzCOCTvG4Q45hxabnK7ctAD6qobX8w6fMq5/SHSxUtW1kMbY2GNj8LBZodieCQ0ZDJoyCto7L7PdS09RURNaGRMe51y3Fia0nGW5vzOQ4m2+yavSk5nqgB9Yv86MeHGWsk/vOKxRlxsEa1wa7Cdcs+OS6hT7Q2LK7uRTNixHCH9yIgTu/WMN29XWVJ+kLsw6inBBLopBdjjqC22JjuYuDfeDyK58BrUCCvwh4+qDNoZSp8GLEJJqeqvvYzsvD9WFdXODYiMTGkloLb+F7yMziywtGtxrewPO3NhSO7p9M2MHw94YcA6mRhxMH7RtbeQuTpD/7MBfAi36wWQilq5InLnSWz3ppBa1hkmn0gdj/qTmyxOL6eQ2aTmWOtcNJ3gi5B5G/EpmlIz4yh0mU4MiuupTtCVIomOuhdoV2Hwt8288P6qYIWNCUFwoszNoVYBwAXO/l/VexSBwuEnBzU0UhabhUnEAKESrljcZrEN9dHA+5Yg0nxCuSz7lrFGXGwW4bjthRsUYaLBCX0icqWZAyqEb8B8thnvB/kmSQbV8/oFvs2vw+F3l3Hh/RY2LUoYcxquAdJkG0vtX9R8Aul/QsP1VWW27y8dumF+D0xY1z+SkxyuP3bjPjkNFYezm1nUcwljF22wPZewcy98jucDmD1G8qvBnTG634/baSdZgbLiYLz/ddokhqyXOY+4eHOBvqTc3v+1e6vP0YB31x+G+DuXY+F8bO7vz+0t+8pq2LYde4zvqG08h84MjYHF2/EyTIn9puvEreftXQ0URp6AiSRw+0F3Nvawc6Q+d3ADLpvcnTDDkGUtsP5kuXqj1GM4lQ6j5Gw+68T3sBh/S+0sHludNL96/F/zXXOdp4nVU73EkmaXXf43a8uSsv0UbVip6id1RK2PHG2zpHWBIcS7xH7xvfic1W62UOlkcMw6R7h0LiR7it6h7xLXkzcCFc7fJRf6AS9/RTMfrUoGQMNyObXtDT6Y3e1BU4ohWVIrMXdB8gZbHbEJHXv3fi0tbdryUf0b7Rip6t7ppGxtdC5oc8hrcWNhtiOQNgfYku2qhskszmm4dLI4cwXkg+oISC4XDj2Bon4w0xl+pyiyLA3G3jvLmP+z/8Af1tIuykcbdq0/dYu7M0+DFrg+r1GG/O1kgghtmdU07OVkcFbSyyvDI2yPxOcbNGKCZjSTuGJzc+azHn15kGkDftGZOnOPC9MzWDybg30of4nP/6X+UxL+yH/AHym/wCIp/8AMC6NtvZmxauZ9RJtGIPfhvhq4A3wtDRYG+4BUySGkptoxfV5+9p2S08hkuHgWeC/xNFnAAXuONtyqfEVfWaq/rJcWdXw+mAbC+PhHH0ui9cz/cx/xyp72zcf0XRgHI9xfnaEke+x9FXPpI2hFPVh0MjZGiJjcTCC2+J5sHDI5OCadptrwTUFJHHK172iPE0HxNwxFrg4fdNzaxQZHFZt/EHEh/8AH28ymObcEHQ5K4/SQ4v2LRyE3eRAb77mnff2qolqs3aracE2yqOBkrXSM7nGwG724InNdib93MjXW+SR0bgJkvxK+sU+riIHf/iXTtDHQGkgFVf6v+r7vD3uG+A4Pst2G9r5KrvZ2c3/AP20P2S7UwCn+oVrcUIAax5BcA37rHgZjDlheNABe1rk5myNhxu701TJAPF3ffh46d2zxu6G916BcZaZNJHx5E8tUOG0cuPGngwTth2k2c/Zpo6WQuw902NuGXwhjmnN8g0DQRqqKET2xqoJ6l0lNEIorNbYNDcRF7vwDJt7gW5Z5laQR3sSvP6zJqa/Hier0eLQlC999541mRPI/BIXBWaXynofgq4k4DyZRlQEVNG6rdagZrVzk+riAdI3kmIcVihWLdImesY52ScndUwul2ytHdUwBUOT3pavEVbU8/oEEEZtTz+g+aFVKe6IphvG1DJZoB0RqXU/lHRExSWyU2QWTGI3aJp/M78x+KnpqfefRbx0/ic48Tb2okp7NWwgVAIZNxU7dUAiYJeKIiARDiUFLVG/hNre9a1NRfIafFDrFSuYRMe0lSHjgd4+ah2t5B1HwKVRvLTcZFMJZO+YAB4ri49Dn0QHHpYHtGBrFQKGIuNgjalndBls9b89EZTU4YLDXeeKD2x93975Lhk1PQ4mVS7zeN4IuEVT6JLDKWlMRWBrLjMnQfzQvjPach3k9XUhg4ncP73IKCYnM53Qcjy4kk3JU8HlCMYwqwWYmGAqB+pWzH2WwZc3Q95hmsbFlBX3OB3QH5FSpI7Uo0UOCDAZihBEss3lPQ/BV5MKOvu0sdrY2PpoUtJXY0K2DCbIpFyWAXcBuXlXTFh5f3qvaXzt6po5oIsdEbPoYRQGsWeYiWJn9QZz9qxF6qwfSaS7K0d1Rj32QOzX2DuqIKlce0ZWDtPZKcPbnruKVSxlpsdU9g0UdVTB457j/e5cmTSaPE3TYgtN5R0Q9XVW8Ldd5Wk85aMA1GRP8kInrj3syZ3rYQylqLZHT4I4pQiqeotkdPghdb3EaIOBdMY6PAxxPmwn0yU1BSBoxHN3w6Kaq8jvyn4IHyWdIjFWIFixbMbc2T4uexsJNgi5W920FpzuM/apYYg0WHqVpXeX1/ml6rNdpsNpKoPH7W8fMckNtj7v73yS6OQtNxqjKibvQ3cRe/u0WDHpaxxNLWsFjjumMFMHMIPHI8Mgh2i2SOofKevyC7IxAuYm5ieeItNip4PKE0qacPFj6HglEhLPDvC5X1ic61MmltkNVPTvsAgEbFoETAVAhQSV2vqmsb7IWGG2Z1XY/ZuDkGqprFDYEnWx9EICmT9D0KWJqG7isgqoTSedqaONkppD4hyRkkl0vILMPGdpJ9YHAr1Dr1ZpEZqM0ofN6H5JgsWIMnMYIRBot3aFYsU7cxq8CVty1XixejIH5MlXqxYglEd0H2bei2qvI78p+C9WKI++fn9Y/tK+tmrFitiI1CgrvL6/zWLEhfeE0wAKSHVYsTphhSNofKevyC8WJOT3Zqe9CVXn6nqfisWLsHf9PrCyTRGxaDosWJzRU3ZqFFFp6lYsQCbN36HoUrXqxOx8RGXtC6LyyflHxW4WLEDcwl90frNlixYshT//2Q=="
+        },
+        {
+            "id": 26,
+            "name": "Português fácil",
+            "description": "A LÍNGUA NO DIA A DIA. Fique por dentro da Gramática de forma descomplicada.",
+            "author": "Gramática",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Gramática"
+                },
+                {
+                    "id": 3,
+                    "name": "Português"
+                }
+            ],
+            "link": "https://aprendaportuguesfacil.com.br/",
+            "url_img": "https://dicasdamaia.files.wordpress.com/2021/01/portugues-facil-4.png"
+        },
+        {
+            "id": 27,
+            "name": "Portal Gramaticando",
+            "description": " Você precisa estudar Português, mas está perdido? Vai fazer concurso público, mas nem sabe por onde começar a estudar? Não conseguiu fazer o trabalho do colégio e está pensando em usar a desculpa do 'meu cachorro comeu'? Então calma, deixe o cachorro fora disso, respire fundo e seja bem-vindo ao Blog do Gramaticando, o blog da Língua Portuguesa!",
+            "author": "Gramática",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Gramática"
+                },
+                {
+                    "id": 3,
+                    "name": "Português"
+                }
+            ],
+            "link": "http://www.blogdogramaticando.com/",
+            "url_img": "http://1.bp.blogspot.com/-4-_Aqq63JBo/VaKH2Q1UUFI/AAAAAAAAG4E/xD3xXvMZVSk/s1600/Mascote%2B3C%2Bfundo%2Bbranco%2B%25282015%2529.jpg"
+        },
+        {
+            "id": 28,
+            "name": "A graça da Química",
+            "description": "Downloads Exercícios Experimentos História da Química Jogos Químicos Qui-Legal Química Riso Químico Simulações Utilitários Vídeos.",
+            "author": "Química",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Qumica"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://agracadaquimica.com.br/",
+            "url_img": "https://agracadaquimica.com.br/wp-content/themes/agqtheme/include/logo.png"
+        },
+        {
+            "id": 29,
+            "name": "Química sem segredos",
+            "description": "QUÍMICA SEM SEGREDOS / Química Orgânica - Questões e Exercícios de Química Resolvidos - Aulas Prontas em Power Point (PPT) - Simuladores - Experiências.",
+            "author": "Química",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Qumica"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "http://quimicasemsegredos.com/",
+            "url_img": "https://pbs.twimg.com/profile_images/1715858430/logo_original_400x400.jpg"
+        },
+        {
+            "id": 30,
+            "name": "Molecular Expressions",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "Química",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Qumica"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://micro.magnet.fsu.edu/",
+            "url_img": "https://micro.magnet.fsu.edu/pharmaceuticals/images/liothyronine.jpg"
+        },
+        {
+            "id": 31,
+            "name": "Chemkeys",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "UNICAMP",
+            "object_type": "Revista",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Qumica"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://econtents.bc.unicamp.br/inpec/index.php/chemkeys",
+            "url_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNysDUo-stS4MhaN3cXmdaKDUb6cb4luTdFcwlk2Em0MoYeuJty3Ln0KJ8SY0mH-3hrQw&usqp=CAU"
+        },
+        {
+            "id": 32,
+            "name": "Adoro Física",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "Fisica",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Física"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://portal.aprendiz.uol.com.br/content/adoro-fisica",
+            "url_img": "https://i.scdn.co/image/395ccc759f79a29e084d5f54e514ca5b5bebb021"
+        },
+        {
+            "id": 33,
+            "name": "Estude Física",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "Fisica",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Física"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://www.estudemaisfisica.com/",
+            "url_img": "https://estudemaisfisica.com.br/wp-content/uploads/2020/08/logo-min-1.png"
+        },
+        {
+            "id": 34,
+            "name": "Só Física",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "Fisica",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Física"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://www.sofisica.com.br/",
+            "url_img": "https://www.sofisica.com.br/imagens/logo_sofisica.png"
+        },
+        {
+            "id": 35,
+            "name": "OpenLearn",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "História",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "História"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://www.open.edu/openlearn/",
+            "url_img": "https://images.squarespace-cdn.com/content/v1/5eb0375066d3470cf1605e46/1601561579775-43HF5YIFIET1FDQNC313/OpenLearn+Logo"
+        },
+        {
+            "id": 36,
+            "name": "História do Mundo",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "História",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "História"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://www.historiadomundo.com.br/",
+            "url_img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mapa_do_mundo.jpg"
+        },
+        {
+            "id": 37,
+            "name": "História Livre",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "História",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "História"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "http://www.historialivre.com/",
+            "url_img": ""
+        },
+        {
+            "id": 38,
+            "name": "Café História",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "História",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "História"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://www.cafehistoria.com.br/",
+            "url_img": "https://villacafe.com.br/blog/wp-content/uploads/2016/04/shutterstock_95863327-e1460064424869-760x460.jpg"
+        },
+        {
+            "id": 39,
+            "name": "Guia Geo",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "Geografia",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Geografia"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://www.guiageo.com/",
+            "url_img": "https://www.guiageo.com/pictures/terra.jpg"
+        },
+        {
+            "id": 40,
+            "name": "Geografia para Todos",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "Geografia",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Geografia"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "http://www.geografiaparatodos.com.br/index.php",
+            "url_img": "data:image/jpeg;base64,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"
+        },
+        {
+            "id": 41,
+            "name": "Visão Geográfica",
+            "description": "Welcome to the Molecular Expressions website featuring our acclaimed photo galleries that explore the fascinating world of optical microscopy. We are going where no microscope has gone before by offering one of the Web's largest collections of color photographs taken through an optical microscope (commonly referred to as 'photo-micro-graphs').",
+            "author": "Geografia",
+            "object_type": "Site",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "educação"
+                },
+                {
+                    "id": 2,
+                    "name": "Geografia"
+                },
+                {
+                    "id": 3,
+                    "name": "Ciência"
+                }
+            ],
+            "link": "https://www.visaogeografica.com/",
+            "url_img": "https://1.bp.blogspot.com/-3feYisFWwPg/YBIwo18BkJI/AAAAAAAAQ68/LiNDSeJh7hsMM7T9D449iXgoMwwzQ_EnwCK4BGAYYCw/s1600/VISAO3.png"
+        },
+        {
+            "id": 42,
+            "name": "GCompris - Jogo Educacional para fundamental I",
+            "description": "GCompris é um software educacional de alta qualidade que compreende numerosas atividades para crianças com idade entre 2 e 10 anos. GCompris é um software livre francês, que significa \"Eu entendi\". Ele é ótimo para testar conhecimentos sobre conceitos ou vivê-los de maneira prática.\n\nAlgumas atividades são de orientação lúdica, mas mesmo assim ainda educacional.\n\nAbaixo você encontra uma lista de categorias, com algumas das atividades disponíveis em cada uma delas.\n\ndescoberta do computador: teclado, mouse, diferentes usos do mouse, ...\naritmética: memorização de tabelas, enumeração, tabelas de entrada dupla, imagens espelhadas, ...\nciências: controle do canal, ciclo da água, o submarino, simulação elétrica, ...\ngeografia: colocar os países no mapa\njogos: xadrez, memória, ligue 4, sudoku ...\nleitura: prática de leitura\noutros: aprender a identificar as horas, quebra-cabeças com pinturas famosas, desenho vetorial, produção de quadrinhos, ...\nAtualmente o GCompris oferece mais de 100 atividades e está em constante evolução. O GCompris é um software livre, o que significa que você pode adaptá-lo às suas necessidades, melhorá-lo e, o mais importante, compartilhá-lo com as crianças de toda a parte.",
+            "author": "Bruno Coudoin",
+            "object_type": "Software Educacional",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Jogos"
+                },
+                {
+                    "id": 2,
+                    "name": "Infância"
+                },
+                {
+                    "id": 3,
+                    "name": "Alfabetização"
+                },
+                {
+                    "id": 4,
+                    "name": "software livre"
+                }
+            ],
+            "link": "https://gcompris.net/index-pt_BR.html",
+            "url_img": "https://gcompris.net/images/gcompris.png"
+        },
+        {
+            "id": 43,
+            "name": "Ilha das Operações",
+            "description": "O RED Ilha das Operações traz o contexto de uma ilha mágica onde existiam quatro tribos, cada uma delas associada a uma das operações matemáticas básicas (adição, subtração, multiplicação e divisão). O jogador deverá resolver os desafios propostos pelo RED a fim de apaziguar um conflito que surgiu entre os povos Multiplis (multiplicação) e Divisarions (divisão), antes que toda a ilha seja comprometida. Nesse contexto, o RED Ilha das Operações explora diferentes situações quaternárias do campo conceitual multiplicativo, dos eixos de proporção simples e proporção múltipla. Todas essas situações são apresentadas no recurso por meio de múltiplas representações (icônica, tabular), o que deve proporcionar aos estudantes uma melhor compreensão das relações envolvidas.",
+            "author": "Juscileide Braga de Castro, Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lídya de Lima Monteiro, Joyce da Silva Sousa, Francisco Youri Miranda de Freitas, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "MIDE"
+                },
+                {
+                    "id": 2,
+                    "name": "Jogo"
+                },
+                {
+                    "id": 3,
+                    "name": "EF04MA07"
+                },
+                {
+                    "id": 4,
+                    "name": "EF04MA06"
+                },
+                {
+                    "id": 5,
+                    "name": "EF04MA05"
+                },
+                {
+                    "id": 6,
+                    "name": "EF04MA04"
+                },
+                {
+                    "id": 7,
+                    "name": "Cultura digital"
+                },
+                {
+                    "id": 8,
+                    "name": "BNCC"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/338674",
+            "url_img": "https://mide-ilha-das-operacoes.netlify.app/assets/images/logo-intro_04cb083d395cded8cf0974754f58b0ea.png"
+        },
+        {
+            "id": 44,
+            "name": "Jogo virtual: Brincando com Substantivos",
+            "description": "O jogo propõem uma atividade lúdica para classificar palavras em pessoa, lugar ou coisa.",
+            "author": "Britannica Digital Learning",
+            "object_type": "Outros",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Substantivo"
+                }
+            ],
+            "link": "https://www.jogosdaescola.com.br/brincando-com-substantivos/",
+            "url_img": "https://3.bp.blogspot.com/-rO8uDJRSFLM/WIocasXDbOI/AAAAAAAADsc/uFh1Zuee-qgB4myU4iDpSQ-4S3xeK5T-QCLcB/s1600/JOGO%2BDO%2BSUBSTANTIVO%2B1.jpg"
+        },
+        {
+            "id": 45,
+            "name": "Revista Digital da Criança",
+            "description": "O RED “Revista Digital da Criança” trabalha a estrutura de uma revista e os gêneros que a compõem, ampliando a consciência dos alunos sobre os conteúdos abordados, como também sobre as principais características textuais e organizacionais desses gêneros. A partir do uso deste recurso, são exploradas seções próprias de uma revista, cada uma representada por um gênero textual do campo jornalístico-midiático, como capa, editorial, sumário, entrevista e cartas dos leitores. Além disso, os jogos estão presentes com o objetivo de estabelecer uma primeira avaliação da interpretação textual.",
+            "author": "Raquel Santiago Freire, Mércia Valéria Campos Figueiredo, Rayssa Araújo Hitzschky, Danilo Coêlho Sousa, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "EF03LP20"
+                },
+                {
+                    "id": 2,
+                    "name": "EF05LP15"
+                },
+                {
+                    "id": 3,
+                    "name": "EF04LP14"
+                },
+                {
+                    "id": 4,
+                    "name": "EF03LP18"
+                },
+                {
+                    "id": 5,
+                    "name": "jogo"
+                },
+                {
+                    "id": 6,
+                    "name": "bncc"
+                },
+                {
+                    "id": 7,
+                    "name": "mídia"
+                },
+                {
+                    "id": 8,
+                    "name": "midiático"
+                },
+                {
+                    "id": 9,
+                    "name": "jornalístico"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/35900",
+            "url_img": "https://guia-revista-digital-da-crianca.netlify.app/imagens/1.1descri%C3%A7%C3%A3oDoRed.png"
+        },
+        {
+            "id": 46,
+            "name": "De olho na lista",
+            "description": "O recurso De olho na lista tem como objetivo apresentar e sistematizar características do gênero lista, bem como trabalhar com a produção desse gênero. A aplicação funciona em dois modos: desafio das listas e editor de listas. O primeiro modo divide-se em sete fases, apresentando algumas histórias-problema com três personagens ilustrados: uma mulher adulta, um homem adulto e um jovem.",
+            "author": "Raquel Santiago Freire, Mércia Valéria Campos Figueiredo, Rayssa Araújo Hitzschky, Danilo Coêlho Sousa, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "EF01LP20"
+                },
+                {
+                    "id": 2,
+                    "name": "EF05LP17"
+                },
+                {
+                    "id": 3,
+                    "name": "EF01LP08"
+                },
+                {
+                    "id": 4,
+                    "name": "EF12LP04"
+                },
+                {
+                    "id": 5,
+                    "name": "EF12LP01"
+                },
+                {
+                    "id": 6,
+                    "name": "EF01LP02"
+                },
+                {
+                    "id": 7,
+                    "name": "game"
+                },
+                {
+                    "id": 8,
+                    "name": "escrita"
+                },
+                {
+                    "id": 9,
+                    "name": "vida cotidiana"
+                },
+                {
+                    "id": 10,
+                    "name": "BNCC"
+                },
+                {
+                    "id": 11,
+                    "name": "lista"
+                }
+            ],
+            "link": "https://mide-de-olho-na-lista.netlify.app/#!/",
+            "url_img": "https://mide-de-olho-na-lista.netlify.app/assets/images/logo-intro_55160c9d0db9afc9125676ae9ca7742e.png"
+        },
+        {
+            "id": 47,
+            "name": "Brincando com as formas",
+            "description": "O RED Brincando com as Formas explora o cenário de um quarto infantil. Neste cenário, a criança entra como se estivesse em um jogo em primeira pessoa. Haverá 3 objetos animados que correspondem a desafios a serem realizados pela criança para que possa receber as chaves de um objeto parecido com uma nave em formato de tetraedro que o levará ao planeta TETRIX. Cada um destes objetos corresponderá a uma atividade diferente. O recurso é um jogo no qual os alunos irão trabalhar conceitos da Geometria, como tamanhos e cores, de forma lúdica o que possibilitará o desenvolvimento da criança em diversos conhecimentos introdutórios à Matemática conforme a BNCC.",
+            "author": 	"Juscilene Braga de Castro,Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lydia Monteiro, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "MIDE"
+                },
+                {
+                    "id": 2,
+                    "name": "EF02MA15"
+                },
+                {
+                    "id": 3,
+                    "name": "EF02MA14"
+                },
+                {
+                    "id": 4,
+                    "name": "EF02MA10"
+                },
+                {
+                    "id": 5,
+                    "name": "game"
+                },
+                {
+                    "id": 6,
+                    "name": "geometria"
+                },
+                {
+                    "id": 7,
+                    "name": "formas"
+                },
+                {
+                    "id": 8,
+                    "name": "jogo"
+                },
+                {
+                    "id": 9,
+                    "name": "BNCC"
+                }
+            ],
+            "link": "https://mide-brincando-com-as-formas.netlify.app/#!/login",
+            "url_img": "https://guia-brincando-com-as-formas.netlify.app/imagens/atividadesComRed.png"
+        },
+        {
+            "id": 48,
+            "name": "Por que eu tenho que usar cadeirinha?",
+            "description": "Animação com o intuito de discutir com crianças dos cinco primeiros anos do ensino fundamental e da educação infantil como reconhecer e identificar os tipos de equipamentos de retenção infantil existentes, quando e como devem ser utilizados, bem como porque é necessário descartá-los. A animação tem 5 minutos de duração e foi desenvolvida em resposta à pandemia da COVID-19, que impôs o ensino remoto e fez surgir a necessidade de criar novas estratégias para discutir temas de segurança no trânsito com as crianças. Foram considerados os princípios da teoria piagetiana sobre desenvolvimento tanto na concepção geral do projeto como na busca, ainda que virtual, de interação com a criança. A animação pode ser visualizada em aparelhos eletrônicos como computadores, tablets e smartphones.\n\nComo citar: Todt, T. B., Pelizzaro, A. L. Z., Araujo, M. C. Q., & Bianchi, A. (2020, Setembro, 21). Por que eu tenho que usar cadeirinha? [Animação]. Recuperado de https://plataformaintegrada.mec.gov.br ISBN: 978-65-86233-73-5",
+            "author": "Thomas Bianchi Todt, Ana Lídia Zaponi Pelizzaro, Maria Clara Quaresma de Araújo, Alessandra Sant´Anna Bianchi",
+            "object_type": "Animação",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "assento de elevação"
+                },
+                {
+                    "id": 2,
+                    "name": "cadeirinha"
+                },
+                {
+                    "id": 3,
+                    "name": "acidente"
+                },
+                {
+                    "id": 4,
+                    "name": "prevenção"
+                },
+                {
+                    "id": 5,
+                    "name": "segurança"
+                },
+                {
+                    "id": 6,
+                    "name": "trânsito"
+                },
+                {
+                    "id": 7,
+                    "name": "formas"
+                },
+                {
+                    "id": 8,
+                    "name": "jogo"
+                },
+                {
+                    "id": 9,
+                    "name": "BNCC"
+                }
+            ],
+            "link": "",
+            "url_img": ""
+        },
+        {
+            "id": 49,
+            "name": "É o Bicho 2.0",
+            "description": 	"Tendo como contexto a extinção de animais da Região Amazônica, O RED É o Bicho 2.0 explora habilidades presentes em várias unidades temáticas da BNCC.",
+            "author": "Juscileide Braga de Castro, Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lídya de Lima Monteiro, Joyce da Silva Sousa, José Aires de Castro Filho",
+            "object_type": "Jogo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "EF03MA27"
+                },
+                {
+                    "id": 2,
+                    "name": "EF03MA26"
+                },
+                {
+                    "id": 3,
+                    "name": "EF03MA12"
+                },
+                {
+                    "id": 4,
+                    "name": "EF03MA10"
+                },
+                {
+                    "id": 5,
+                    "name": "EF03MA06"
+                },
+                {
+                    "id": 6,
+                    "name": "EF03MA05"
+                },
+                {
+                    "id": 7,
+                    "name": "EF03MA03"
+                },
+                {
+                    "id": 8,
+                    "name": "geometria"
+                },
+                {
+                    "id": 9,
+                    "name": "álgebra"
+                },
+                {
+                    "id": 10,
+                    "name": "jogo"
+                },
+                {
+                    "id": 11,
+                    "name": "BNCC"
+                },
+                {
+                    "id": 12,
+                    "name": "amazonia"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/36677",
+            "url_img": "https://guia-e-o-bicho-2.netlify.app/imagens/1%20-%20descri%C3%A7%C3%A3oDoRed.png"
+        },
+        {
+            "id": 50,
+            "name": "Você sabia? Você também faz parte do trânsito.",
+            "description": "É um vídeo interativo em que as crianças devem encontrar os elementos que fazem parte do trânsito em diferentes cenários. Tem como objetivo promover que as crianças se reconheçam como participantes do trânsito, assim como reconheçam as outras partes integrantes deste sistema, pois é importante que elas tenham esse discernimento para evitar acidentes e outras complicações. Em cada cenário o foco é direcionado a elementos distintos, variando conforme suas principais características. Além do vídeo ser interativo, ele convida as crianças a pensarem nas perguntas que são feitas, não entregando as respostas rapidamente. Os elementos devem ser identificados através de dicas que buscam mostrar as funções e deveres dos componentes do trânsito. A criança tem um tempo pré-definido para associar as dicas aos elementos e encontrá-los na imagem. Após esse tempo, os elementos que foram apresentados através das dicas serão destacados. \nComo citar: Tascheck, T., Moro, D. T., Watanabe, L. H., & Bianchi, A. S. (2020, Setembro 22). Você sabia? Você também faz parte do trânsito. Recuperado de https://plataformaintegrada.mec.gov.br ISBN: 978-65-86233-69-8",
+            "author": "Thomas Tascheck, Daiane Teixeira Moro, Leonardo Haruki Watanabe e Alessandra Sant´Anna Bianchi",
+            "object_type": "Vídeo",
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "saúde"
+                },
+                {
+                    "id": 2,
+                    "name": "cidadania"
+                },
+                {
+                    "id": 3,
+                    "name": "prevenção"
+                },
+                {
+                    "id": 4,
+                    "name": "acidente"
+                },
+                {
+                    "id": 5,
+                    "name": "segurança"
+                },
+                {
+                    "id": 6,
+                    "name": "trânsito"
+                }
+            ],
+            "link": "https://plataformaintegrada.mec.gov.br/recurso/357725",
+            "url_img": "http://www.sindsegrs.com.br/wp-content/uploads/2017/12/13.-Deveres-300x207.jpg"
+        }
+    ]
+}

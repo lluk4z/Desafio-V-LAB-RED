@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+body {
+    background: #ecf3f3;
+}
+.card-completo {
+    border-radius: 8px;
+    border: 1px solid #fcfbfb;
+    box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    align-items: flex-start;
+    max-width: 70vw;
+    margin: 0 auto;
+    font-size: 0.85rem;
+    font-family: 'Sen', sans-serif;
+    background-color: #cdf0ea73;
+}
+
+.card-completo:hover {
+    background-color: #FFBCBC;
+    box-shadow: 1px 2px 7px 0 rgba(230, 216, 216, 0.616);
+}
+
+h1 {
+    font-family: 'Concert One', cursive;
+    color: #34656D;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: 'Concert One', cursive;
+    color: #334443;
+}
+
+.todos-cards {
+    display: grid;
+    grid-template-columns: 1.5fr 1.5fr 1.5fr;
+    max-width: 90%;
+}
+
+.card-completo img {
+    max-width: 40%;
+    margin: 0 auto;
+}
+
+.card-completo img:hover {
+    max-width: 45%;
+}
+
+.nome-red {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.descricao {
+    font-size: 0.6rem;
+    background-color: rgba(240, 248, 255, 0.466);
+    text-align: justify;
+    text-align: justify-all;
+    max-width: 95%;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+
+
+.card-completo a {
+    text-decoration: none;
+    color: #334443;
+    font-weight: 400;
+}
+
+.card-completo a:hover {
+    text-decoration: none;
+    color: #5aa19d;
+    font-weight: 700;
+}
+
+.all-container {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #F9F9F9;
+}
+
+.palavras-chave {
+    font-size: 0.6rem;
+}
+
+.plvr-chave {
+    display: flex;
+}
+
+.pagination {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+    font-size: 1.2rem;
+    gap: 5px;
+}
+
+.pagination .page-num {
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: 400;
+}
+
+.pagination .page-num:hover {
+    background-color: #5AB1BB;
+    color: #fff;
+    font-weight: 700;
+}
+
+.pagination .active {
+    background-color: #5AB1BB;
+}
+
+@media(max-width: 700px) {
+    .todos-cards {
+        display: flex;
+        flex-direction: column;
+    }
+    h1 {
+        font-size: 2rem;
+        max-width: 60%;
+        text-align: center;
+    }
+  }
